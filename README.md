@@ -1,2 +1,2 @@
-# java-core
+# Java Core tasks
 Java Core tasks
