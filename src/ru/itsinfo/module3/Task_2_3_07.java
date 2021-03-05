@@ -1,4 +1,4 @@
-package ru.itsinfo.module2;
+package ru.itsinfo.module3;
 
 /**
  * Выберите выражения, которые дадут в качестве результата строку A12.
